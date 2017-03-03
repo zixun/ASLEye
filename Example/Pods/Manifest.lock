@@ -1,0 +1,16 @@
+PODS:
+  - ASLEye (0.1.0)
+
+DEPENDENCIES:
+  - ASLEye (from `../`)
+
+EXTERNAL SOURCES:
+  ASLEye:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASLEye: 24ea16d9e175506aea445c363cd348295bbb5c79
+
+PODFILE CHECKSUM: bbb483b01a60f5f0dbfdbb76800e9548ef73ae86
+
+COCOAPODS: 1.2.0
