@@ -53,6 +53,7 @@ Or, if you’re using [Carthage](https://github.com/Carthage/Carthage), add SwVi
 
 ``` 
 github "zixun/ASLEye"
+```
 
 ## Author
 
